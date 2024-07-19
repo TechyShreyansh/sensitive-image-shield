@@ -1,8 +1,8 @@
 <h1 align="center">Sensitive Image Shield</h1>
 
-![ImgShield Demo](https://github.com/theamanstark/sensitive-image-shield/raw/main/.gitassets/demo.gif)
+![ImgShield Demo](https://github.com/techshreyansh0129/sensitive-image-shield/blob/main/.gitassets/demo.gif)
 
-### # Demo 👉 [click here](https://imgshield.amanstark.com). 
+### # Demo 👉 [click here](#). 
 
 <br>
 
@@ -21,13 +21,13 @@
     (ii) Using an external CSS style cdn link 👇
 
     ```html
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/theamanstark/sensitive-image-shield@main/assets/style.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/techshreyansh0129/sensitive-image-shield@main/assests/style.min" />
     ```
 
 2. Now, put the following javascript above: `</body>`, either at the root of your site or in the post where the widget will be used.
 
    ```html
-   <script src='https://cdn.jsdelivr.net/gh/theamanstark/sensitive-image-shield@main/assets/script.min.js'></script>
+   <script src='https://cdn.jsdelivr.net/gh/techshreyansh0129/sensitive-image-shield@main/assests/script.min.js'></script>
    ```
 
 3. Finally, use the HTML below to place the sensitive image shield widget on your image.
@@ -46,4 +46,4 @@
    </div>
    ```
 
-**Credits**: Sensitive Image Shield created by [Aman Singh](https://www.amanstark.com).
+**Credits**: Sensitive Image Shield created by [Ritik Rai](https://telegram.me/tech_shreyansh2).
